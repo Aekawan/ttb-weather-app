@@ -18,13 +18,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Screenshot
 
-![alt text](https://raw.githubusercontent.com/Aekawan/ttb-weather-app/main/public/screen-shots/example-app-2.png?raw=true)
+![alt text](https://github.com/Aekawan/ttb-weather-app/blob/main/public/screen-shots/example-app.png?raw=true)
 
-![alt text](https://raw.githubusercontent.com/Aekawan/ttb-weather-app/main/public/screen-shots/example-app.png?raw=true)
+![alt text](https://github.com/Aekawan/ttb-weather-app/blob/main/public/screen-shots/example-app-2.png?raw=true)
 
 # Firebase realtime database structure
 
-![alt text](https://raw.githubusercontent.com/Aekawan/ttb-weather-app/main/public/screen-shots/firebase-structure.png?raw=true)
+![alt text](https://github.com/Aekawan/ttb-weather-app/blob/main/public/screen-shots/firebase-structure.png?raw=true)
 
 # Weather supports
 
