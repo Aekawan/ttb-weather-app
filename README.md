@@ -1,4 +1,8 @@
-### Weather App
+# Weather App
+
+## System Requirement
+
+- node (v. 20.x)
 
 ## Getting Started
 
